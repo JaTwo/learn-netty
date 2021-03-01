@@ -1,6 +1,8 @@
 package httpService;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
+
 import java.io.IOException;
 import java.util.HashMap;
 
